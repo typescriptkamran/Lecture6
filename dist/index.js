@@ -1,12 +1,6 @@
 // import {a,b} from './data/first'
-import num1 from './data/2nd.js'
-import {num2} from './data/2nd.js'
-import {Student, a, b, data1, sum} from './data/first.js'
-console.log("🚀 ~ file: index.ts:3 ~ num1:", num1)
-
-
-
-
+import num1 from './data/2nd.js';
+console.log("🚀 ~ file: index.ts:3 ~ num1:", num1);
 /* Notes To put Js files in other folder:
 1. change in tsconfig.json file line 58 define where to safe .js files
 2. install vs code extention: Turbo Console Log
